@@ -1,0 +1,22 @@
+.banner {
+  background-image: url("assets/ngada.jpg");
+  background-repeat: no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #ffff;
+}
+
+.kontak {
+  background: url("https://wallpaperaccess.com/full/1867010.jpg") no-repeat
+    center center;
+  background-size: cover;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  color: #fff;
+}
+
+/* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+}
